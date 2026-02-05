@@ -13,7 +13,6 @@ The dashboard provides a comprehensive view of **temperature trends, air quality
 
 <img width="1280" height="672" alt="image" src="https://github.com/user-attachments/assets/b02af929-d554-4514-bde8-1f088e4d752a" />
 
-
 ----
 
 ## 🧰 Tools Used
